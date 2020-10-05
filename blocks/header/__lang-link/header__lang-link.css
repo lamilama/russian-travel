@@ -11,8 +11,10 @@
 
 .header__lang-link:nth-child(1) {
     text-decoration-line: underline;
-    margin-left: 0;
-    
+    margin-left: 0;    
 }
    
+.header__lang-link:hover {
+    opacity: 0.5;
+}
 
