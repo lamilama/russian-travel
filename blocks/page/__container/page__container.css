@@ -17,6 +17,7 @@
     .page__container {
         width: calc(100% - 2 * 24px)
     }
+}
 
 @media screen and (max-width: 767px) {
     .page__container {
