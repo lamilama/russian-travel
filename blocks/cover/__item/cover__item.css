@@ -14,8 +14,8 @@
 .cover__item::before {
     content: '';
     position: absolute;
-    background: #686868;
-    opacity: .4;
+    background: #2A2C2F,;
+    opacity: .3;
     top: 0;
     bottom: 0;
     left: 0;
@@ -23,7 +23,7 @@
 }
 
 .cover__item:hover::before {
-    opacity: .7;
+    opacity: .8;
     transition: opacity 1s;
 }
 
