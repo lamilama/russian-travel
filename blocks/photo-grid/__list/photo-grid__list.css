@@ -10,8 +10,6 @@
     .photo-grid__list { 
         gap: 14px; 
     }
-
-
 }
 
 
@@ -19,8 +17,6 @@
     .photo-grid__list { 
         gap: 16px; 
     }
-
-
 }
 
 
@@ -28,6 +24,4 @@
     .photo-grid__list { 
         gap: 12px; 
     }
-
-
 }

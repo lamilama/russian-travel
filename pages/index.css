@@ -8,6 +8,7 @@
 @import url('../blocks/header/header.css');
 @import url('../blocks/header/__logo/header__logo.css');
 @import url('../blocks/header/__lang-link/header__lang-link.css');
+@import url('../blocks/header/__lang-link/_active/header__lang-link_active.css');
 
 @import url('../blocks/lead/lead.css');
 @import url('../blocks/lead/__title/lead__title.css');
@@ -17,6 +18,7 @@
 
 @import url('../blocks/intro/intro.css');
 @import url('../blocks/intro/__list/intro__list.css');
+@import url('../blocks/intro/__list/_span-accent/intro__list_span-accent.css');
 @import url('../blocks/intro/__text/intro__text.css');
 @import url('../blocks/intro/__title/intro__title.css');
 
@@ -24,16 +26,14 @@
 @import url('../blocks/photo-grid/__list/photo-grid__list.css');
 @import url('../blocks/photo-grid/__item/photo-grid__item.css');
 
-@import url('../blocks/');
-
 @import url('../blocks/places/places.css');
-@import url('../blocks/places/place/place.css');
-@import url('../blocks/places/place/__title/place__title.css');
-@import url('../blocks/places/place/__paragraph/place__paragraph.css');
-@import url('../blocks/places/place/__image/place__image.css');
-@import url('../blocks/places/place/__link/place__link.css');
-@import url('../blocks/places/place/__link-info/place__link-info.css');
-@import url('../blocks/places/place/__link-url/place__link-url.css');
+@import url('../blocks/place/place.css');
+@import url('../blocks/place/__title/place__title.css');
+@import url('../blocks/place/__paragraph/place__paragraph.css');
+@import url('../blocks/place/__image/place__image.css');
+@import url('../blocks/place/__link/place__link.css');
+@import url('../blocks/place/__link-info/place__link-info.css');
+@import url('../blocks/place/__link-url/place__link-url.css');
 
 @import url('../blocks/cover/cover.css');
 @import url('../blocks/cover/__item/cover__item.css');
@@ -43,4 +43,5 @@
 @import url('../blocks/footer/footer.css');
 @import url('../blocks/footer/__links/footer__links.css');
 @import url('../blocks/footer/__link/footer__link.css');
+@import url('../blocks/footer/__link-url/footer__link-url.css');
 @import url('../blocks/footer/__copyright/footer__copyright.css');
