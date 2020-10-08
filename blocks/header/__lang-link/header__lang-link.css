@@ -1,5 +1,5 @@
 .header__lang-link {
-    font-family: 'Inter';
+    font-family: 'Inter', Arial, sans-serif;
     color: #fff;
     font-size: 24px;
     line-height: 28px;
@@ -19,7 +19,7 @@
 }
 
 @media screen and (max-width: 767px) {
-    .header {
+    .header__lang-link {
         font-size: 18px;
         line-height: 20px;
     }
